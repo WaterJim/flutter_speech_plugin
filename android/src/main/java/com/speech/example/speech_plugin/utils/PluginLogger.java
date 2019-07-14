@@ -4,9 +4,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 
-/**
- * Created by waterchen on 2019/7/11.
- */
+
 public class PluginLogger {
 
     private static final String TAG = "MyLogger";

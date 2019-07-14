@@ -13,9 +13,7 @@ import org.json.JSONObject;
 
 import java.util.Map;
 
-/**
- * Created by waterchen on 2019/7/11.
- */
+
 public class WakeUpHandler {
 
     private static boolean isInited = false;

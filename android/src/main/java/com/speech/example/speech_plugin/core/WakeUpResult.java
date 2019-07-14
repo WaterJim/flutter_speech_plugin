@@ -6,9 +6,7 @@ import com.speech.example.speech_plugin.utils.PluginLogger;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**
- * Created by waterchen on 2019/7/11.
- */
+
 public class WakeUpResult {
 
     private String name;

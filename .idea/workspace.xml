@@ -27,7 +27,13 @@
     <last-search-timestamp>1562833867440</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca353a8-046f-4155-ae27-31e118e57980" name="Default Changelist" comment="" />
+    <list default="true" id="cca353a8-046f-4155-ae27-31e118e57980" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/BdAsrManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/BdAsrManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/WakeUpHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/WakeUpHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/WakeUpResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/WakeUpResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/listener/IWakeupListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/listener/IWakeupListener.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -57,13 +63,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/android/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="199">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,9 +81,13 @@
         <option value="$PROJECT_DIR$/android/settings.gradle" />
         <option value="$PROJECT_DIR$/speech_core/build.gradle" />
         <option value="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/SpeechPlugin.java" />
-        <option value="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/WakeUpHandler.java" />
         <option value="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/android/build.gradle" />
+        <option value="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/WakeUpHandler.java" />
+        <option value="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/BdAsrManager.java" />
+        <option value="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/WakeUpResult.java" />
+        <option value="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/core/listener/IWakeupListener.java" />
+        <option value="$PROJECT_DIR$/android/src/main/java/com/speech/example/speech_plugin/utils/PluginLogger.java" />
       </list>
     </option>
   </component>
@@ -84,6 +97,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -284,7 +298,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2208" height="1208" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -294,7 +308,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" />
-      <window_info anchor="bottom" id="Build" order="1" visible="true" weight="0.32931355" />
+      <window_info active="true" anchor="bottom" id="Build" order="1" visible="true" weight="0.32961932" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46" />
       <window_info anchor="bottom" id="TODO" order="3" />
       <window_info anchor="bottom" id="Android Profiler" order="4" show_stripe_button="false" />
@@ -476,8 +490,8 @@
     <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/97z1ksx6lirer3kbvdnh7jtjg/gradle-5.1.1/src/plugins/org/gradle/api/plugins/JavaPluginConvention.java" />
     <entry file="file://$PROJECT_DIR$/android/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="199">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>

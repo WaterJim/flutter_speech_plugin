@@ -16,9 +16,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by waterchen on 2019/7/11.
- */
+
 public class BdAsrManager{
 
     private static BdAsrManager mInstance;
